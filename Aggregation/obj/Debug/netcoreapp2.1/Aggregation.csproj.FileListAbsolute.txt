@@ -1,0 +1,14 @@
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.deps.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.runtimeconfig.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.runtimeconfig.dev.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\bin\Debug\netcoreapp2.1\Collections.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\bin\Debug\netcoreapp2.1\Collections.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.csprojAssemblyReference.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.csproj.CoreCompileInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.AssemblyInfoInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.AssemblyInfo.cs
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.csproj.CopyComplete
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.pdb

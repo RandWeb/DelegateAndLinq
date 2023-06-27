@@ -1,0 +1,14 @@
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\bin\Debug\netcoreapp2.1\Sorting.deps.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\bin\Debug\netcoreapp2.1\Sorting.runtimeconfig.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\bin\Debug\netcoreapp2.1\Sorting.runtimeconfig.dev.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\bin\Debug\netcoreapp2.1\Sorting.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\bin\Debug\netcoreapp2.1\Sorting.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\bin\Debug\netcoreapp2.1\Collections.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\bin\Debug\netcoreapp2.1\Collections.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\obj\Debug\netcoreapp2.1\Sorting.csprojAssemblyReference.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\obj\Debug\netcoreapp2.1\Sorting.csproj.CoreCompileInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\obj\Debug\netcoreapp2.1\Sorting.AssemblyInfoInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\obj\Debug\netcoreapp2.1\Sorting.AssemblyInfo.cs
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\obj\Debug\netcoreapp2.1\Sorting.csproj.CopyComplete
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\obj\Debug\netcoreapp2.1\Sorting.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Sorting\obj\Debug\netcoreapp2.1\Sorting.pdb

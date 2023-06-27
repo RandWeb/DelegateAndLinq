@@ -1,0 +1,13 @@
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\bin\Debug\netcoreapp2.1\LetAndInto.deps.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\bin\Debug\netcoreapp2.1\LetAndInto.runtimeconfig.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\bin\Debug\netcoreapp2.1\LetAndInto.runtimeconfig.dev.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\bin\Debug\netcoreapp2.1\LetAndInto.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\bin\Debug\netcoreapp2.1\LetAndInto.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\bin\Debug\netcoreapp2.1\Collections.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\bin\Debug\netcoreapp2.1\Collections.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\obj\Debug\netcoreapp2.1\LetAndInto.csproj.CoreCompileInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\obj\Debug\netcoreapp2.1\LetAndInto.AssemblyInfoInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\obj\Debug\netcoreapp2.1\LetAndInto.AssemblyInfo.cs
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\obj\Debug\netcoreapp2.1\LetAndInto.csproj.CopyComplete
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\obj\Debug\netcoreapp2.1\LetAndInto.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LetAndInto\obj\Debug\netcoreapp2.1\LetAndInto.pdb

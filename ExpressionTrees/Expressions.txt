@@ -1,0 +1,72 @@
+﻿
+Add							5 + 2
+AddAssign					x += 2
+AddChecked					checked (x + 2) ---check overflow
+AddAssignChecked			checked (x += 2) ---check overflow
+
+
+Subtract					5 – 2
+SubtractAssign				x -= 2
+SubtractChecked				checked (x - 2)
+SubtractAssignChecked		checked (x -= 2)
+
+
+Multiply					5 * 2
+MultiplyAssign				x *= 2
+MultiplyChecked				checked (x * 2)
+MultiplyAssignChecked		checked (x *= 2)
+
+
+Divide						5 / 2
+DivideAssign				x /= 2
+
+
+Modulo						5 % 2
+ModuloAssign				x %= 2
+
+
+Power						5 ^ 2
+PowerAssign					x ^= 2
+
+----------------------------------------------------------
+
+And							true & false
+AndAlso						true && false
+AndAssign					x &= true
+
+
+Or							true | false
+OrElse						true || false
+OrAssign					x |= false
+
+
+
+ExclusiveOr					true ^ false
+ExclusiveOrAssign			x ^= false
+
+
+LessThan					5 < 2
+LessThanOrEqual				5 <= 2
+
+
+GreaterThan					5 > 2
+GreaterThanOrEqual			5 >= 2
+
+
+Equal						5 == 2
+NotEqual					5 != 2
+
+
+RightShift					5 >> 2
+RightShiftAssign			x >>= 2
+
+
+LeftShift					5 << 2
+LeftShiftAssign				x <<= 2
+
+
+Assign						x = 2
+ArrayIndex					x[2]
+Coalesce					(int) x
+
+------------------------------------------------

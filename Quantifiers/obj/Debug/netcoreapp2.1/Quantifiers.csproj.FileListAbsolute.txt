@@ -1,0 +1,14 @@
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\bin\Debug\netcoreapp2.1\Quantifiers.deps.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\bin\Debug\netcoreapp2.1\Quantifiers.runtimeconfig.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\bin\Debug\netcoreapp2.1\Quantifiers.runtimeconfig.dev.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\bin\Debug\netcoreapp2.1\Quantifiers.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\bin\Debug\netcoreapp2.1\Quantifiers.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\bin\Debug\netcoreapp2.1\Collections.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\bin\Debug\netcoreapp2.1\Collections.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\obj\Debug\netcoreapp2.1\Quantifiers.csprojAssemblyReference.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\obj\Debug\netcoreapp2.1\Quantifiers.csproj.CoreCompileInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\obj\Debug\netcoreapp2.1\Quantifiers.AssemblyInfoInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\obj\Debug\netcoreapp2.1\Quantifiers.AssemblyInfo.cs
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\obj\Debug\netcoreapp2.1\Quantifiers.csproj.CopyComplete
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\obj\Debug\netcoreapp2.1\Quantifiers.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Quantifiers\obj\Debug\netcoreapp2.1\Quantifiers.pdb

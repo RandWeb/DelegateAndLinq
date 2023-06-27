@@ -1,0 +1,14 @@
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\bin\Debug\netcoreapp2.1\SequenceEqual.deps.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\bin\Debug\netcoreapp2.1\SequenceEqual.runtimeconfig.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\bin\Debug\netcoreapp2.1\SequenceEqual.runtimeconfig.dev.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\bin\Debug\netcoreapp2.1\SequenceEqual.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\bin\Debug\netcoreapp2.1\SequenceEqual.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\bin\Debug\netcoreapp2.1\Collections.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\bin\Debug\netcoreapp2.1\Collections.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\obj\Debug\netcoreapp2.1\SequenceEqual.csprojAssemblyReference.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\obj\Debug\netcoreapp2.1\SequenceEqual.csproj.CoreCompileInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\obj\Debug\netcoreapp2.1\SequenceEqual.AssemblyInfoInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\obj\Debug\netcoreapp2.1\SequenceEqual.AssemblyInfo.cs
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\obj\Debug\netcoreapp2.1\SequenceEqual.csproj.CopyComplete
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\obj\Debug\netcoreapp2.1\SequenceEqual.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\SequenceEqual\obj\Debug\netcoreapp2.1\SequenceEqual.pdb

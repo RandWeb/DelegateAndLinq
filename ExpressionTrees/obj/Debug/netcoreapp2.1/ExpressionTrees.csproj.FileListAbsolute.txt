@@ -1,0 +1,11 @@
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\bin\Debug\netcoreapp2.1\ExpressionTrees.deps.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\bin\Debug\netcoreapp2.1\ExpressionTrees.runtimeconfig.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\bin\Debug\netcoreapp2.1\ExpressionTrees.runtimeconfig.dev.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\bin\Debug\netcoreapp2.1\ExpressionTrees.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\bin\Debug\netcoreapp2.1\ExpressionTrees.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\obj\Debug\netcoreapp2.1\ExpressionTrees.csprojAssemblyReference.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\obj\Debug\netcoreapp2.1\ExpressionTrees.csproj.CoreCompileInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\obj\Debug\netcoreapp2.1\ExpressionTrees.AssemblyInfoInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\obj\Debug\netcoreapp2.1\ExpressionTrees.AssemblyInfo.cs
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\obj\Debug\netcoreapp2.1\ExpressionTrees.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\ExpressionTrees\obj\Debug\netcoreapp2.1\ExpressionTrees.pdb

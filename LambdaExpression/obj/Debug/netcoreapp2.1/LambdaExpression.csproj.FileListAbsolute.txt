@@ -1,0 +1,11 @@
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.deps.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.runtimeconfig.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.runtimeconfig.dev.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.csprojAssemblyReference.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.csproj.CoreCompileInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.AssemblyInfoInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.AssemblyInfo.cs
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.pdb

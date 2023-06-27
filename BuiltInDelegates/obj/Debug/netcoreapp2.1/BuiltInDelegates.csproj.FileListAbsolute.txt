@@ -1,0 +1,11 @@
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\bin\Debug\netcoreapp2.1\BuiltInDelegates.deps.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\bin\Debug\netcoreapp2.1\BuiltInDelegates.runtimeconfig.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\bin\Debug\netcoreapp2.1\BuiltInDelegates.runtimeconfig.dev.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\bin\Debug\netcoreapp2.1\BuiltInDelegates.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\bin\Debug\netcoreapp2.1\BuiltInDelegates.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\obj\Debug\netcoreapp2.1\BuiltInDelegates.csprojAssemblyReference.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\obj\Debug\netcoreapp2.1\BuiltInDelegates.csproj.CoreCompileInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\obj\Debug\netcoreapp2.1\BuiltInDelegates.AssemblyInfoInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\obj\Debug\netcoreapp2.1\BuiltInDelegates.AssemblyInfo.cs
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\obj\Debug\netcoreapp2.1\BuiltInDelegates.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\BuiltInDelegates\obj\Debug\netcoreapp2.1\BuiltInDelegates.pdb

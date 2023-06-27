@@ -1,0 +1,14 @@
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\bin\Debug\netcoreapp2.1\LinqSyntax.deps.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\bin\Debug\netcoreapp2.1\LinqSyntax.runtimeconfig.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\bin\Debug\netcoreapp2.1\LinqSyntax.runtimeconfig.dev.json
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\bin\Debug\netcoreapp2.1\LinqSyntax.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\bin\Debug\netcoreapp2.1\LinqSyntax.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\bin\Debug\netcoreapp2.1\Collections.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\bin\Debug\netcoreapp2.1\Collections.pdb
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\obj\Debug\netcoreapp2.1\LinqSyntax.csprojAssemblyReference.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\obj\Debug\netcoreapp2.1\LinqSyntax.csproj.CoreCompileInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\obj\Debug\netcoreapp2.1\LinqSyntax.AssemblyInfoInputs.cache
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\obj\Debug\netcoreapp2.1\LinqSyntax.AssemblyInfo.cs
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\obj\Debug\netcoreapp2.1\LinqSyntax.csproj.CopyComplete
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\obj\Debug\netcoreapp2.1\LinqSyntax.dll
+H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\LinqSyntax\obj\Debug\netcoreapp2.1\LinqSyntax.pdb
