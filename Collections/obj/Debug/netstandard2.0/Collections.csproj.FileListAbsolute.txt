@@ -16,3 +16,13 @@ H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Collections\o
 H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Collections\obj\Debug\netstandard2.0\Collections.AssemblyInfo.cs
 H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Collections\obj\Debug\netstandard2.0\Collections.dll
 H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Collections\obj\Debug\netstandard2.0\Collections.pdb
+E:\learn\DelegateAndLinq\Collections\bin\Debug\netstandard2.0\Collections.deps.json
+E:\learn\DelegateAndLinq\Collections\bin\Debug\netstandard2.0\Collections.dll
+E:\learn\DelegateAndLinq\Collections\bin\Debug\netstandard2.0\Collections.pdb
+E:\learn\DelegateAndLinq\Collections\obj\Debug\netstandard2.0\Collections.csproj.AssemblyReference.cache
+E:\learn\DelegateAndLinq\Collections\obj\Debug\netstandard2.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\learn\DelegateAndLinq\Collections\obj\Debug\netstandard2.0\Collections.AssemblyInfoInputs.cache
+E:\learn\DelegateAndLinq\Collections\obj\Debug\netstandard2.0\Collections.AssemblyInfo.cs
+E:\learn\DelegateAndLinq\Collections\obj\Debug\netstandard2.0\Collections.csproj.CoreCompileInputs.cache
+E:\learn\DelegateAndLinq\Collections\obj\Debug\netstandard2.0\Collections.dll
+E:\learn\DelegateAndLinq\Collections\obj\Debug\netstandard2.0\Collections.pdb

@@ -19,14 +19,15 @@ namespace MultiCastDelegate.Sample01
             SingleStringDelegate x = WriteData;
             Delegate01 += x;
         }
-        public void AssignData(string data)
+
+        private void AssignData(string data)
         {
             _globalData = data;
             Console.WriteLine($"global data: '{data}'");
 
         }
 
-        public void WriteData(string data)
+        private void WriteData(string data)
         {
             Console.WriteLine($"data: '{data}'");
         }

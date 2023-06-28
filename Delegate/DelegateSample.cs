@@ -2,30 +2,30 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Delegate
+namespace Delegate;
+
+public class DelegateSample
 {
-    public class DelegateSample
+    private string _globalData;
+
+    public delegate void SingleStringDelegate(string data);
+
+    public SingleStringDelegate Delegate01;
+    public SingleStringDelegate Delegate02;
+
+    public DelegateSample()
     {
-        private string _globalData;
-        public delegate void SingleStringDelegate(string data);
+        Delegate01 = AssignData;
+        Delegate02 = WriteData;
+    }
 
-        public SingleStringDelegate Delegate01;
-        public SingleStringDelegate Delegate02;
+    public void AssignData(string data)
+    {
+        _globalData = data;
+    }
 
-        public DelegateSample()
-        {
-            Delegate01 = AssignData;
-            Delegate02 = WriteData;
-            
-        }
-        public void AssignData(string data)
-        {
-            _globalData = data;
-        }
-
-        public void WriteData(string data)
-        {
-            Console.WriteLine($"data: {data}");
-        }
+    public void WriteData(string data)
+    {
+        Console.WriteLine($"data: {data}");
     }
 }

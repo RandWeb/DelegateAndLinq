@@ -1,15 +1,16 @@
 ﻿using System;
 
-namespace BuiltInDelegates
+namespace BuiltInDelegates;
+
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            BuiltInDelegateSample delegateSample=new BuiltInDelegateSample();
-            delegateSample.Execute();
-            
-            Console.ReadLine();
-        }
+        BuiltInDelegateSample delegateSample = new();
+        GenericDelegateSample genericDelegateSample = new();
+        genericDelegateSample.Execute();
+        delegateSample.Execute();
+
+        Console.ReadLine();
     }
 }

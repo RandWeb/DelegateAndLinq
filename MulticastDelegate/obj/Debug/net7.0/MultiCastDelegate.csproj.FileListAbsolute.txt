@@ -1,0 +1,15 @@
+E:\learn\DelegateAndLinq\MulticastDelegate\bin\Debug\net7.0\MultiCastDelegate.exe
+E:\learn\DelegateAndLinq\MulticastDelegate\bin\Debug\net7.0\MultiCastDelegate.deps.json
+E:\learn\DelegateAndLinq\MulticastDelegate\bin\Debug\net7.0\MultiCastDelegate.runtimeconfig.json
+E:\learn\DelegateAndLinq\MulticastDelegate\bin\Debug\net7.0\MultiCastDelegate.dll
+E:\learn\DelegateAndLinq\MulticastDelegate\bin\Debug\net7.0\MultiCastDelegate.pdb
+E:\learn\DelegateAndLinq\MulticastDelegate\obj\Debug\net7.0\MultiCastDelegate.csproj.AssemblyReference.cache
+E:\learn\DelegateAndLinq\MulticastDelegate\obj\Debug\net7.0\MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\learn\DelegateAndLinq\MulticastDelegate\obj\Debug\net7.0\MultiCastDelegate.AssemblyInfoInputs.cache
+E:\learn\DelegateAndLinq\MulticastDelegate\obj\Debug\net7.0\MultiCastDelegate.AssemblyInfo.cs
+E:\learn\DelegateAndLinq\MulticastDelegate\obj\Debug\net7.0\MultiCastDelegate.csproj.CoreCompileInputs.cache
+E:\learn\DelegateAndLinq\MulticastDelegate\obj\Debug\net7.0\MultiCastDelegate.dll
+E:\learn\DelegateAndLinq\MulticastDelegate\obj\Debug\net7.0\refint\MultiCastDelegate.dll
+E:\learn\DelegateAndLinq\MulticastDelegate\obj\Debug\net7.0\MultiCastDelegate.pdb
+E:\learn\DelegateAndLinq\MulticastDelegate\obj\Debug\net7.0\MultiCastDelegate.genruntimeconfig.cache
+E:\learn\DelegateAndLinq\MulticastDelegate\obj\Debug\net7.0\ref\MultiCastDelegate.dll

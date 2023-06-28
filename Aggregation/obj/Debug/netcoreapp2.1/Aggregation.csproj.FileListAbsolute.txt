@@ -12,3 +12,19 @@ H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\o
 H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.csproj.CopyComplete
 H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.dll
 H:\BiaTech Recording\4.Linq\Codes\RecordingCode\DelegateLambdaLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.pdb
+E:\learn\DelegateAndLinq\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.deps.json
+E:\learn\DelegateAndLinq\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.runtimeconfig.json
+E:\learn\DelegateAndLinq\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.runtimeconfig.dev.json
+E:\learn\DelegateAndLinq\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.dll
+E:\learn\DelegateAndLinq\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.pdb
+E:\learn\DelegateAndLinq\Aggregation\bin\Debug\netcoreapp2.1\Collections.dll
+E:\learn\DelegateAndLinq\Aggregation\bin\Debug\netcoreapp2.1\Collections.pdb
+E:\learn\DelegateAndLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.csproj.AssemblyReference.cache
+E:\learn\DelegateAndLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+E:\learn\DelegateAndLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.AssemblyInfoInputs.cache
+E:\learn\DelegateAndLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.AssemblyInfo.cs
+E:\learn\DelegateAndLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.csproj.CoreCompileInputs.cache
+E:\learn\DelegateAndLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.csproj.CopyComplete
+E:\learn\DelegateAndLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.dll
+E:\learn\DelegateAndLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.pdb
+E:\learn\DelegateAndLinq\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.genruntimeconfig.cache

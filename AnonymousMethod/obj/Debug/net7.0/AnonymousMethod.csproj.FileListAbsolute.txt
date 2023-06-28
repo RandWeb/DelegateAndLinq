@@ -1,0 +1,15 @@
+E:\learn\DelegateAndLinq\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.exe
+E:\learn\DelegateAndLinq\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.deps.json
+E:\learn\DelegateAndLinq\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.runtimeconfig.json
+E:\learn\DelegateAndLinq\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.dll
+E:\learn\DelegateAndLinq\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.pdb
+E:\learn\DelegateAndLinq\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.csproj.AssemblyReference.cache
+E:\learn\DelegateAndLinq\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\learn\DelegateAndLinq\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.AssemblyInfoInputs.cache
+E:\learn\DelegateAndLinq\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.AssemblyInfo.cs
+E:\learn\DelegateAndLinq\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.csproj.CoreCompileInputs.cache
+E:\learn\DelegateAndLinq\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.dll
+E:\learn\DelegateAndLinq\AnonymousMethod\obj\Debug\net7.0\refint\AnonymousMethod.dll
+E:\learn\DelegateAndLinq\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.pdb
+E:\learn\DelegateAndLinq\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.genruntimeconfig.cache
+E:\learn\DelegateAndLinq\AnonymousMethod\obj\Debug\net7.0\ref\AnonymousMethod.dll

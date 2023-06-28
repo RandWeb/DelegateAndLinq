@@ -1,14 +1,13 @@
 ﻿using System;
 
-namespace LambdaExpression
+namespace LambdaExpression;
+
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            LambdaExpressionSample expressionSample=new LambdaExpressionSample();
-            expressionSample.Execute();
-            Console.ReadLine();
-        }
+        LambdaExpressionSample expressionSample = new LambdaExpressionSample();
+        expressionSample.Execute();
+        Console.ReadLine();
     }
 }

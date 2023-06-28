@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace MultiCastDelegate.Sample02
 {
@@ -17,31 +15,29 @@ namespace MultiCastDelegate.Sample02
             CalculatorDelegate addDelegate = Add;
             CalculatorDelegate subDelegate = Sub;
 
-            Calculator = (CalculatorDelegate) Delegate.Combine(new CalculatorDelegate[]
-            {
-                addDelegate,
-                mulDelegate,
-                divDelegate,
-                subDelegate
-            });
+            Calculator = (CalculatorDelegate)Delegate.Combine(addDelegate, mulDelegate, divDelegate, subDelegate);
 
-            var invocationList = Calculator.GetInvocationList();
+            Delegate[] invocationList = Calculator?.GetInvocationList();
 
-            Calculator = (CalculatorDelegate) Delegate.Remove(Calculator, divDelegate);
+            Calculator = (CalculatorDelegate)Delegate.Remove(Calculator, divDelegate);
         }
-        public void Multiply(int x, int y)
+
+        private void Multiply(int x, int y)
         {
             Console.WriteLine($"{x}*{y} ={x * y}");
         }
-        public void Div(int x, int y)
+
+        private void Div(int x, int y)
         {
             Console.WriteLine($"{x}/{y} ={x / y}");
         }
-        public void Add(int x, int y)
+
+        private void Add(int x, int y)
         {
             Console.WriteLine($"{x}+{y} ={x + y}");
         }
-        public void Sub(int x, int y)
+
+        private void Sub(int x, int y)
         {
             Console.WriteLine($"{x}-{y} ={x - y}");
         }

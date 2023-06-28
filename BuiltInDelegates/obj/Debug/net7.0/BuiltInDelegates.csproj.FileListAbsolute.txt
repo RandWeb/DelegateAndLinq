@@ -1,0 +1,15 @@
+E:\learn\DelegateAndLinq\BuiltInDelegates\bin\Debug\net7.0\BuiltInDelegates.exe
+E:\learn\DelegateAndLinq\BuiltInDelegates\bin\Debug\net7.0\BuiltInDelegates.deps.json
+E:\learn\DelegateAndLinq\BuiltInDelegates\bin\Debug\net7.0\BuiltInDelegates.runtimeconfig.json
+E:\learn\DelegateAndLinq\BuiltInDelegates\bin\Debug\net7.0\BuiltInDelegates.dll
+E:\learn\DelegateAndLinq\BuiltInDelegates\bin\Debug\net7.0\BuiltInDelegates.pdb
+E:\learn\DelegateAndLinq\BuiltInDelegates\obj\Debug\net7.0\BuiltInDelegates.csproj.AssemblyReference.cache
+E:\learn\DelegateAndLinq\BuiltInDelegates\obj\Debug\net7.0\BuiltInDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\learn\DelegateAndLinq\BuiltInDelegates\obj\Debug\net7.0\BuiltInDelegates.AssemblyInfoInputs.cache
+E:\learn\DelegateAndLinq\BuiltInDelegates\obj\Debug\net7.0\BuiltInDelegates.AssemblyInfo.cs
+E:\learn\DelegateAndLinq\BuiltInDelegates\obj\Debug\net7.0\BuiltInDelegates.csproj.CoreCompileInputs.cache
+E:\learn\DelegateAndLinq\BuiltInDelegates\obj\Debug\net7.0\BuiltInDelegates.dll
+E:\learn\DelegateAndLinq\BuiltInDelegates\obj\Debug\net7.0\refint\BuiltInDelegates.dll
+E:\learn\DelegateAndLinq\BuiltInDelegates\obj\Debug\net7.0\BuiltInDelegates.pdb
+E:\learn\DelegateAndLinq\BuiltInDelegates\obj\Debug\net7.0\BuiltInDelegates.genruntimeconfig.cache
+E:\learn\DelegateAndLinq\BuiltInDelegates\obj\Debug\net7.0\ref\BuiltInDelegates.dll
